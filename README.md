@@ -46,9 +46,6 @@ https://github.com/golang/go/wiki
 Go夜读	https://talkgo.org/
 
 https://golangbot.com/learn-golang-series/
-
-https://golang.org/dl/
-
 https://datatracker.ietf.org/doc/html/rfc7231#section-6.1
 
 gin:
@@ -57,13 +54,5 @@ https://github.com/gin-gonic/gin
 
 defer:
 https://segmentfault.com/a/1190000018169295#articleHeader4
-
-gorush：Go 编写的通知推送服务器。
-fnproject：容器原生，云 serverless 平台。
-photoprism：基于 Go 和 Google TensorFlow 实现的个人照片管理工具。
-krakend：拥有中间件的超高性能 API 网关。
-picfit：Go 编写的图像尺寸调整服务器。
-gotify：基于 WebSocket 进行实时消息收发的简单服务器。
-cds：企业级持续交付和 DevOps 自动化开源平台。
 
 世界上没有高深的技能，简单的动作重复练习就是高深的技能。
