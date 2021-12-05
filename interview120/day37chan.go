@@ -3,6 +3,7 @@ package main
 import (
 	"log"
 	"time"
+	"fmt"
 )
 
 func main() {
@@ -16,4 +17,5 @@ func main() {
 func dummy(c chan int) {
 	time.Sleep(3 * time.Second)
 	<-c
+	fmt.Println("happy")
 }
