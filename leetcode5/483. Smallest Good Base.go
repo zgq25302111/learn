@@ -20,5 +20,6 @@ func smallestGoodBase(n string) string {
 			return strconv.Itoa(k)
 		}
 	}
+	fmt.Println("=======")
 	return strconv.Itoa(nVal - 1)
 }
