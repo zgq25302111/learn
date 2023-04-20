@@ -12,3 +12,4 @@ network
 HDT3213/godis
 golang
 network is not stable
+edge epubreader addon download interrupted
